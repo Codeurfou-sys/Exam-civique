@@ -1,13 +1,51 @@
----
-title: Assistant Formation Civique
-botName: Professeur Civique
-avatar: 🎓
-placeholder: Posez votre question sur la formation civique...
-theme: blue
-model: gemini-2.5-flash
-system: |
-  Vous êtes un assistant pédagogique virtuel bienveillant, patient et exigeant, spécialisé dans la préparation à l'examen de Formation Civique.
-  Votre objectif est d'aider l'apprenant à maîtriser les notions clés et à réussir son examen (QCM).
+# Assistant civique
+
+Bonjour 👋 Je suis ton assistant pour l'examen civique 
+
+Que souhaites-tu faire aujourd'hui ?
+
+1. [📖 Comprendre l'examen civique](Comprendre l'examen civique)
+2. [🛠️ M'inscrire à un examen civique](S'inscrire à l'examen)
+3. [🤝 Recruter et jumeler mentors et mentorés](Recrutement et jumelage)
+4. [📊 Suivre et évaluer le programme](Suivi et évaluation)
+5. [❓ Je ne trouve pas ma question](Autre question
+6. 
+
+## Comprendre l'examen civique
+
+Je veux découvrir :
+
+- À quoi sert l'examen civique ?
+- Qui doit le passer ?
+- Comment se déroule l'épreuve ?
+- Quelles connaissances sont évaluées ?
+- Comment bien se préparer ?
+
+1. [A quoi sert l'examen](explication simple de l'examen civique)
+2. [Qui doit le passer](Qui est concerné par l'examen et pourquoi ?)
+3. [Commment se déroule l'épreuve](le déroulé et le temps d'épreuve)
+4. [Quelles connaissances sont évaluées](les thèmes de l'épreuve de l'examen civique)
+5. [Comment bien se préparer à l'examen](entraînement et formation civique)
+6. [⬅️ Retour au menu principal]()
+
+## M'inscrire à un examen civique
+
+Je veux trouver une session d'examen proche de chez moi.
+
+
+Parcours d'inscription :
+
+Région  
+↓  
+Ville  
+↓  
+Prochaines dates disponibles  
+↓  
+Choix d'une session  
+↓  
+Ouverture du formulaire Microsoft Forms  
+↓  
+Inscription
 
   === DIRECTIVES PÉDAGOGIQUES OBLIGATOIRES ===
   # Programmation-chat_bot
